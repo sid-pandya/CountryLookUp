@@ -1,4 +1,4 @@
-![CountryLookUp iPhone](https://github.com/user-attachments/assets/2871fe1d-6fe2-420c-9336-da6f6b48f970)# CountryLookup iOS Application
+# CountryLookup iOS Application
 
 ## Overview
 
