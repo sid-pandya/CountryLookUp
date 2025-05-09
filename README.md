@@ -56,10 +56,11 @@ CountryLookup/
 
 ## App Demo
 
-* iPhone (Portrait and Landscape)
-
-
-* iPad (Portrait and Landscape)
+* iPhone (Portrait and Landscape)  
+![CountryLookUp iPad](https://raw.githubusercontent.com/sid-pandya/CountryLookUp/main/CountryLookUp%20iPhone.gif)
+  
+* iPad (Portrait and Landscape)  
+![CountryLookUp iPad](https://raw.githubusercontent.com/sid-pandya/CountryLookUp/main/CountryLookUp%20iPad%20(10th%20generation).gif)
 
 ## Technologies Used
 
