@@ -36,7 +36,7 @@ CountryLookup/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sid-pandya/CountryLookUp
+   git clone https://github.com/sid-pandya/CountryLookUp.git
    cd CountryLookup
    ```
 2. Open `CountryLookup.xcodeproj` in Xcode.
@@ -72,4 +72,4 @@ CountryLookup/
 ## 👨‍💻 Author
 
 * Sidhdharth Pandya
-* GitHub: [yourusername](https://github.com/sid-pandya)
+* GitHub: https://github.com/sid-pandya
